@@ -19,6 +19,10 @@
       "type": "text",
       "maxLength": 80
     },
+    "shitufkc": {
+      "type": "text",
+      "maxLength": 80
+    },
     "slug": {
       "type": "uid",
       "targetField": "title"
